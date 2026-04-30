@@ -16,7 +16,7 @@ def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(description="Smart Crowd Density Monitoring System (YOLOv8 + OpenCV)")
     p.add_argument(
         "--source",
-        default="path/video.mp4",
+        default="video.mp4",
         help="Video source: webcam index (default 0) or path to a video file.",
     )
     p.add_argument("--model", default="yolov8n.pt", help="Ultralytics YOLOv8 model path (e.g., yolov8n.pt)")
