@@ -1,0 +1,57 @@
+# 🐍 Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+
+# 📦 Virtual Environment
+venv/
+.env/
+.env.*
+
+# 📁 Logs
+logs/
+*.log
+
+# 📂 Dataset / Videos (your "path" folder)
+path/
+*.mp4
+*.avi
+*.mov
+
+# 🤖 Model weights (large files)
+*.pt
+*.pth
+*.onnx
+
+# 🧠 YOLO specific
+runs/
+ultralytics/
+
+# 📊 CSV / outputs (optional ignore)
+*.csv
+
+# 🖥️ OS files
+.DS_Store
+Thumbs.db
+
+# 🧰 IDE / Editor
+.vscode/
+.idea/
+
+# 🔐 Secrets / configs
+*.env
+config.json
+
+# 📄 Temporary files
+*.tmp
+*.bak
+
+# 📦 Build / dist
+build/
+dist/
+*.egg-info/
+
+# 🧪 Jupyter
+.ipynb_checkpoints/
