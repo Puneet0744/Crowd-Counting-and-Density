@@ -43,7 +43,7 @@ opencv-python: 4.8.0
 numpy: 1.23.0
 flask: 2.3.0
 ```
-
+<!--
 ## 📸 Screenshots
 
 > **Tip:** You can auto-generate a beautiful project mockup image using the **Screenshot** button above!
@@ -55,7 +55,7 @@ flask: 2.3.0
 <p align="center">
   <img src="https://via.placeholder.com/800x400?text=Feature+Showcase" alt="Feature Showcase" width="80%"/>
 </p>
-
+-->
 ## 📁 Project Structure
 
 ```
